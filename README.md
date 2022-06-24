@@ -1,6 +1,6 @@
 # Covid 19 APP | API 
 
-this app shows you live covid  19 status of any countrys.
+this app shows you live covid  19 status of any countries.
 
 ## Output
 
