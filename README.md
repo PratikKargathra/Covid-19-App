@@ -1,16 +1,7 @@
-# untitled
+# Covid 19 APP | API 
 
-A new Flutter project.
+this app shows you live covid  19 status of any countrys.
 
-## Getting Started
+## Output
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![covid19](https://user-images.githubusercontent.com/90972632/175450024-3b42e506-d3a4-4deb-83b3-23df9eb67f77.gif)
